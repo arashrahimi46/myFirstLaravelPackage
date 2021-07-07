@@ -1,0 +1,19 @@
+{
+    "name": "arash/greet",
+    "description": "Greetr - A simple Laravel package.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "arashrahimi",
+            "email": "arashrahimi46@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Arash\\Greet\\": "src/"
+        }
+    },
+    "require": {}
+}
